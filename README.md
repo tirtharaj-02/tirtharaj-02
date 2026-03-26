@@ -23,7 +23,7 @@ With a strong foundation in **Frontend Technologies** and experience in **Backen
 I focus on creating seamless user experiences that are both functional and aesthetic.
 
 **🔭 Currently:** Polishing my React ecosystem skills.  
-**🌱 Learning:** Next.js and Tailwind CSS.  
+**🌱 Learning:** React.js and Tailwind CSS.  
 **📫 Reach me:** 57tr06@gmail.com
 
 ---
