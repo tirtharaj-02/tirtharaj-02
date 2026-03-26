@@ -47,3 +47,8 @@ I'm a passionate web developer focused on building clean, responsive, and user-c
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=tirtharaj-02&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
+<p align="left">
+  <a href="https://github.com/tirtharaj-02/tirtharaj-02/blob/main/assets/Tirtha_Raj_Joshi_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download-My%20CV-0e75b6?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
+  </a>
+</p>
