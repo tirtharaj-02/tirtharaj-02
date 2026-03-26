@@ -16,14 +16,12 @@
 </p>
 
 ---
-
-### ⚡ About Me
-I am a motivated IT graduate with a **Bachelor's in Computer Application (BCA)**. My journey is a blend of building innovative software solutions and empowering the next generation of tech talent.
-
-🎓 **Academic Background:** Completed my BCA at Kantipur College of Management and Information Technology.
-🏫 **Mentorship:** Currently serving as a **Program Assistant** at Shikshyalaya College, where I deliver hands-on training in **HTML, CSS, and JavaScript** to BSc CSIT students.
-💻 **Development Experience:** Previously interned as a **PHP Developer** at REFOBE LLC, working on real-world projects to bridge the gap between theory and practice.
-🎯 **Focus:** Crafting responsive, cross-browser compatible web applications that solve real-world problems.
+The Developer,The Mentor
+🛠️ PHP & Web Focus: Gained deep practical knowledge as a PHP Developer during my internship at REFOBE LLC.+1,
+"👨‍🏫 Technical Trainer: Currently a Program Assistant at Shikshyalaya College, delivering modern web training to BSc CSIT students.+1"
+🚀 Project Driven: Developed a Student Information System featuring risk-analysis algorithms and full CRUD operations.+2,
+"🎨 Skills Focused: Designing hands-on sessions covering Semantic HTML, Flexbox/Grid, and Interactive JS."
+"🎓 BCA Graduate: Passionate IT professional from KCMIT, Kathmandu (Class of 2024).",🤝 Student Success: Dedicated to mentoring students in building responsive and user-friendly web applications.
 
 ---
 
