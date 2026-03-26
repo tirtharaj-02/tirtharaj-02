@@ -17,12 +17,12 @@
 
 ---
 The Developer,The Mentor
-🛠️ PHP & Web Focus: Gained deep practical knowledge as a PHP Developer during my internship at REFOBE LLC.+1,
-"👨‍🏫 Technical Trainer: Currently a Program Assistant at Shikshyalaya College, delivering modern web training to BSc CSIT students.+1"
-🚀 Project Driven: Developed a Student Information System featuring risk-analysis algorithms and full CRUD operations.+2,
-"🎨 Skills Focused: Designing hands-on sessions covering Semantic HTML, Flexbox/Grid, and Interactive JS."
-"🎓 BCA Graduate: Passionate IT professional from KCMIT, Kathmandu (Class of 2024).",🤝 Student Success: Dedicated to mentoring students in building responsive and user-friendly web applications.
-
+||"🛠️ Practical Experience: Developed real-world expertise as a PHP Developer during my internship at REFOBE LLC, Kathmandu.",||
+||"👨‍🏫 Technical Trainer: Currently a Program Assistant at Shikshyalaya College, delivering modern web training to BSc CSIT students."||
+||"🚀 Project Driven: Built a Student Information System featuring risk-analysis algorithms and comprehensive CRUD operations.",||
+||"🎨 Skills Focused: Designing hands-on sessions covering Semantic HTML, Modern CSS (Flexbox/Grid), and Interactive JS.||
+||"🎓 BCA Graduate: Earned my Bachelor's of Computer Application from Kantipur College of Management and Information Technology.,"||
+||"🤝 Student Success: Dedicated to mentoring students in building responsive, user-friendly web applications."||
 ---
 
 ### 🛠️ Tech Stack & Skills
