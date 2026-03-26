@@ -16,13 +16,17 @@
 </p>
 
 ---
-The Developer,The Mentor
-||"🛠️ Practical Experience: Developed real-world expertise as a PHP Developer during my internship at REFOBE LLC, Kathmandu.",||
-||"👨‍🏫 Technical Trainer: Currently a Program Assistant at Shikshyalaya College, delivering modern web training to BSc CSIT students."||
-||"🚀 Project Driven: Built a Student Information System featuring risk-analysis algorithms and comprehensive CRUD operations.",||
-||"🎨 Skills Focused: Designing hands-on sessions covering Semantic HTML, Modern CSS (Flexbox/Grid), and Interactive JS.||
-||"🎓 BCA Graduate: Earned my Bachelor's of Computer Application from Kantipur College of Management and Information Technology.,"||
-||"🤝 Student Success: Dedicated to mentoring students in building responsive, user-friendly web applications."||
+
+### ⚡ My Journey
+
+| **The Developer** | **The Mentor** |
+| :--- | :--- |
+| 🛠️ **Practical Experience:** Developed real-world expertise as a **PHP Developer** during my internship at **REFOBE LLC** | 👨‍🏫 **Technical Trainer:** Currently a **Program Assistant** at **Shikshyalaya College**, delivering modern web training to BSc CSIT students |
+| 🚀 **Project Driven:** Built a **Student Information System** featuring risk-analysis algorithms and comprehensive CRUD operations | 🎨 **Skills Focused:** Designing hands-on sessions covering **Semantic HTML**, **Modern CSS (Flexbox/Grid)**, and **Interactive JS** |
+| 🎓 **BCA Graduate:** Earned my **Bachelor's of Computer Application** from **Kantipur College of Management and Information Technology**[cite: 24]. | 🤝 **Student Success:** Dedicated to mentoring students in building responsive, user-friendly web applications |
+
+> **My Mission:** I am a motivated and detail-oriented IT graduate with a strong foundation in **Java**, **Database Management**, and **Web Technologies**, eager to contribute to innovative software solutions.
+
 ---
 
 ### 🛠️ Tech Stack & Skills
@@ -38,8 +42,8 @@ The Developer,The Mentor
 
 ### 🚀 Key Projects
 
-**Student Information System:** A PHP-based web app featuring CRUD operations and a risk-analysis algorithm for student-teacher recommendations
-**EBooks Web App:** Currently developing an e-commerce platform using **JSP**, focusing on intuitive UI and payment gateway integration.
+**Student Information System:** A responsive PHP-based web app with integrated risk-analysis algorithms and full CRUD capabilities
+**EBooks Web App:** An e-commerce platform built with **JSP**, currently integrating secure payment gateways and intuitive UI
 
 ---
 
