@@ -52,4 +52,4 @@ I'm a passionate web developer focused on building clean, responsive, and user-c
     <img src="https://img.shields.io/badge/Download-My%20Resume-0e75b6?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
   </a>
 </p>
- makw this more professional
+
