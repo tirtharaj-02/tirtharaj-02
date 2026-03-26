@@ -1,55 +1,72 @@
-# 👋 Namaste! I'm Tirtha Raj Joshi
+<div align="center">
 
-### 🚀 Frontend Developer from Nepal 🇳🇵
-I'm a passionate web developer focused on building clean, responsive, and user-centric interfaces. I love turning complex problems into simple, beautiful, and intuitive designs.
+# 🇳🇵 Namaste, I'm Tirtha Raj Joshi
+### **Frontend Developer | Program Assistant | IT Graduate**
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/tirtharaj-02/tirtharaj-02/main/Tirtha-Joshi-cv.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download-My%20CV-0e75b6?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tirtha-raj-joshi-579989394/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tirtharajjoshi57@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ My Tech Toolbox
+### ⚡ Professional Summary
+[cite_start]Motivated IT graduate with a strong foundation in **Java**, **Web Technologies**, and **Database Management**[cite: 5, 46]. [cite_start]Currently serving as a Program Assistant at **Shikshyalaya College**, where I deliver front-end web development training in HTML, CSS, and JavaScript.
 
-| Category | Skills |
+[cite_start]**🔭 Currently:** Developing an **EBooks Web App** using JSP with integrated payment gateways[cite: 32, 33, 35].  
+[cite_start]**🌱 Learning:** Advanced Frontend Frameworks and Mobile Programming.  
+[cite_start]**💬 Mentoring:** Guiding BSc CSIT students in building responsive web applications[cite: 16, 18].
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **Backend & DB** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
+| **Backend & DB** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white) |
+| **Languages** | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) |
 
 ---
 
-### 📊 GitHub Analytics
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tirtharaj-02&show_icons=true&theme=tokyonight&hide_border=true" alt="Tirtha's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirtharaj-02&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Student Information System</h4>
+      [cite_start]<p>A responsive web application featuring comprehensive CRUD operations and an algorithm for student/teacher risk analysis[cite: 26, 27, 29].</p>
+      <sub><b>Tech:</b> PHP, MySQL, JavaScript, HTML/CSS [cite: 27]</sub><br />
+      <a href="https://github.com/tirtharaj-02/Student-Information-System"><b>View Code</b></a> [cite: 31]
+    </td>
+    <td width="50%" valign="top">
+      <h4>📚 EBooks Web App</h4>
+      <p>An e-commerce platform for digital books currently under development, featuring robust validation and payment integration[cite: 32, 34, 35].</p>
+      <sub><b>Tech:</b> JSP (Java Server Pages) [cite: 33]</sub><br />
+      <b>In Development</b>
+    </td>
+  </tr>
+</table>
 
+---
+
+### 📈 GitHub Overview
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tirtharaj-02&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tirtharaj-02&show_icons=true&theme=tokyonight&hide_border=true&title_color=0e75b6" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tirtharaj-02&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&title_color=0e75b6" />
 </p>
 
 ---
 
-### 🏆 Achievements & Activity
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tirtharaj-02&theme=dracula&no-frame=true&column=4" alt="trophies" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=tirtharaj-02&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
----
-
-### 📫 Let's Connect!
-<p align="left">
-  <a href="mailto:57tr06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tirtha-raj-joshi-579989394/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/share/14ph1eyd88y/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=tirtharaj-02&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
-</p>
-<p align="left">
-  <a href="https://raw.githubusercontent.com/tirtharaj-02/tirtharaj-02/main/Tirtha-Joshi-cv.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download-My%20Resume-0e75b6?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
-  </a>
-</p>
-
+</div>
