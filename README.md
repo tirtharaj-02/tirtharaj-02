@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🇳🇵 Namaste, I'm Tirtha Raj Joshi
-### **Frontend Developer | Technical Mentor | BCA Graduate**
+# Namaste, I'm Tirtha Raj Joshi
+### **Frontend Developer | Technical Mentor | IT Graduate**
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/tirtharaj-02/tirtharaj-02/main/Tirtha-Joshi-cv.pdf" target="_blank">
